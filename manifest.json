@@ -1,0 +1,21 @@
+{
+  "short_name": "EPS",
+  "name": "Electronic Platform for Physical Education",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=192&h=192&fit=crop",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=512&h=512&fit=crop",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
